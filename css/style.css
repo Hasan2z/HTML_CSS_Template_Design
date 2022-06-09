@@ -987,6 +987,7 @@ header nav .form i {
     border: 1px solid white;
     text-transform: uppercase;
     border-left: none;
+    cursor: pointer;
 }
 
 .subscribe form input[type="email"]:focus,
